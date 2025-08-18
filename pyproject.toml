@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "auto-scrobbler"
+version = "1.0.0"
+description = "Automatic music scrobbler for Last.fm using Spotify playlists"
+authors = devddine
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+spotipy = "^2.23.0"
+pylast = "^5.2.0"
+flask = "^2.3.3"
+python-dotenv = "^1.0.0"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.7.0"
+flake8 = "^6.1.0"
+pytest = "^7.4.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 88
+target-version = ['py38']
+include = '\.pyi?$'
+
+[tool.flake8]
+max-line-length = 88
+extend-ignore = ['E203']

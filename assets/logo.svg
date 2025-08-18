@@ -1,0 +1,10 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#1DB954" />
+  
+  <!-- Music Note -->
+  <path d="M130 60 L130 140 Q130 150 120 150 L110 150 Q100 150 100 140 L100 110 L130 105 M100 140 Q100 150 90 150 L80 150 Q70 150 70 140 T80 130 L100 130" fill="white" />
+  
+  <!-- Last.fm Logo Stylized -->
+  <path d="M60 70 L80 70 L90 90 L100 70 L120 70 L100 105 L120 140 L100 140 L90 120 L80 140 L60 140 L80 105 L60 70" fill="#D51007" />
+</svg>
