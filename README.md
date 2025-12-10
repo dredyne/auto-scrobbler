@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Dredyne/auto-scrobbler"><img src="assets/logo.svg" alt="Auto Scrobbler" width="200"></a>
+  <a href="https://github.com/dredyne/auto-scrobbler"><img src="assets/logo.svg" alt="Auto Scrobbler" width="200"></a>
   <br>
   Auto Scrobbler
   <br>
@@ -9,20 +9,20 @@
 <h4 align="center">A powerful automatic music scrobbler built with Python, powered by <a href="https://www.spotify.com" target="_blank">Spotify</a> and <a href="https://www.last.fm" target="_blank">Last.fm</a>.</h4>
 
 <p align="center">
-  <a href="https://github.com/Dredyne/auto-scrobbler/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/Dredyne/auto-scrobbler?style=plastic">
+  <a href="https://github.com/dredyne/auto-scrobbler/issues">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/dredyne/auto-scrobbler?style=plastic">
   </a>  
-  <a href="https://github.com/Dredyne/auto-scrobbler/pulls">
-    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Dredyne/auto-scrobbler?style=plastic">
+  <a href="https://github.com/dredyne/auto-scrobbler/pulls">
+    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/dredyne/auto-scrobbler?style=plastic">
   </a>
   <a href="https://discord.gg/UPyggZ2cK8">
     <img alt="Discord" src="https://img.shields.io/discord/827945236218904627?style=plastic&label=discord">
   </a>
-  <a href="https://github.com/Dredyne/auto-scrobbler/graphs/contributors">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Dredyne/auto-scrobbler?style=plastic">
+  <a href="https://github.com/dredyne/auto-scrobbler/graphs/contributors">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dredyne/auto-scrobbler?style=plastic">
   </a>
-  <a href="https://github.com/sponsors/Dredyne">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Dredyne?style=plastic">
+  <a href="https://github.com/sponsors/dredyne">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/dredyne?style=plastic">
   </a>
 </p>
 
@@ -98,7 +98,7 @@ The application includes robust error handling:
 
 ## ⚡ You may also like...
 
-- [NeuralRoulette-AI](https://github.com/Dredyne/NeuralRoulette-AI) - An advanced machine learning system for predicting roulette outcomes.
+- [NeuralRoulette-AI](https://github.com/dredyne/NeuralRoulette-AI) - An advanced machine learning system for predicting roulette outcomes.
 
 ## 🙏 Credits
 
@@ -127,4 +127,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center"><sub>
 
-Built with ❤️ by [Dredyne](https://github.com/Dredyne)</sub></div>
+Built with ❤️ by [dredyne](https://github.com/dredyne)</sub></div>
